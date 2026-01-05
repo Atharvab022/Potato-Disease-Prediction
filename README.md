@@ -1,8 +1,4 @@
-Below is a **revised, project-specific `README.md`** for your **Potato Disease Prediction system with 99% accuracy**, aligned with your FastAPI + TensorFlow implementation.
 
-You can replace your existing README with this.
-
----
 
 # Potato Disease Prediction System (99% Accuracy)
 
